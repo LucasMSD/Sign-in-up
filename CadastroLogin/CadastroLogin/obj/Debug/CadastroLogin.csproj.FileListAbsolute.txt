@@ -1,0 +1,14 @@
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\bin\Debug\CadastroLogin.exe.config
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\bin\Debug\CadastroLogin.exe
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\bin\Debug\CadastroLogin.pdb
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.Properties.Resources.resources
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.csproj.GenerateResource.cache
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.exe
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.pdb
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.csprojAssemblyReference.cache
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.frmCadastro.resources
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.frmLogin.resources
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\bin\Debug\CadastroLogin.exe.manifest
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\bin\Debug\CadastroLogin.application
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.exe.manifest
+C:\Users\lucas\Documents\ProjetosPessoais\CadastroLogin\CadastroLogin\obj\Debug\CadastroLogin.application
